@@ -1,15 +1,15 @@
 # \# ELinks - an advanced web browser
 
-ELinks is an advanced and well-established feature-rich text mode web
-(HTTP/FTP/..) browser. ELinks can render both frames and tables, is
-highly customizable and can be extended via scripts. It is very portable
+ELinks is an advanced and well-established feature-rich text mode web RF RF 
+(HTTP/FTP/..) browser. ELinks can render both frames and tables, is.  RF 
+highly customizable and can be extended via scripts. It is very portable  nRF_24L01
 and runs on a variety of platforms.
 
-The ELinks official website is available at <http://elinks.cz/>.
+The ELinks official website is available at <http://elinks.cz/>.RF
 
-Please see the SITES file for mirrors or other recommended sites. If you
-want to install ELinks on your computer, see the INSTALL file for
-further instructions.
+Please see the SITES file for mirrors or other recommended sites. If you RF RF 
+want to install ELinks on your computer, RF RF RF  see the INSTALL file for
+further instructions.  RF 
 
 A good starting point is documentation files available in doc/,
 especially the file index.txt.
